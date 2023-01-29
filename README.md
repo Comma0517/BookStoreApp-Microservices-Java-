@@ -2,7 +2,7 @@
 
 <hr>
 
-## About this projec
+## About this project
 This is an Ecommerce project still `development in progress`, where users can adds books to the cart and buy those books.
 
 Application is being developed using Java, Spring and React.
